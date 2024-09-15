@@ -40,7 +40,7 @@ function App() {
         </div>
       ) : (
         <div className="w-full h-full">
-          <div className='absolute bottom-0 w-full bg-gray-400 h-min py-1 flex justify-center text-xs md:text-base'>CA: updating...</div>
+          <div className='absolute bottom-0 w-full bg-gray-400 h-min py-1 flex justify-center text-xs md:text-base'>CA: 38V8tmzGfTUkrtYAMhV4Ma2nXEBeLRUPbFEuqR4Epump</div>
           <div className="flex h-screen bg-gray-950">
             {/* Sidebar */}
             <aside className="w-64 bg-gray-950 border-r border-gray-600">
