@@ -54,7 +54,8 @@ export default function Dash() {
               <img src="/a.png" alt="Agent Shiba" className="w-full h-full object-cover" />
             </div>
             <h3 className="text-xl font-bold mb-1">James Bond</h3>
-            <p className="mb-4">Codename: 007</p>
+            <p className="mb-2">Codename: 007</p>
+            <p className="mb-4 text-xs">CA: XXXXXXXXXX</p>
             <div className="w-full">
               <div className="flex justify-between mb-1">
                 <span className="text-sm">Mission Readiness</span>
