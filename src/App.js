@@ -35,7 +35,7 @@ const App = () => {
           <img
             src={logo}
             alt="FBI logo"
-            className="size-[275px] md:size-[375px] h-auto mb-8"
+            className="size-[255px] md:size-[375px] h-auto mb-8"
           />
           <div className="w-64 h-1 bg-gray-200 rounded-full overflow-hidden">
             <div 
