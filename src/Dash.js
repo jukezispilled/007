@@ -26,7 +26,7 @@ export default function Dash() {
             </div>
 
             <h2 className="text-xl font-semibold mb-4 flex items-center">
-                <Map className="mr-2" /> Operation Pump
+                Operation Pump
             </h2>
             <div className="relative h-64 bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg overflow-hidden">
                 <iframe
