@@ -28,7 +28,7 @@ export default function Dash() {
             <h2 className="text-xl font-semibold mb-4 flex items-center">
                 Operation Pump
             </h2>
-            <div className="relative h-[425px] bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg overflow-hidden">
+            <div className="hidden md:block md:h-[425px] bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg overflow-hidden">
                 <iframe
                 src="https://pump.fun/board"
                 className="absolute inset-0 w-full h-full border-0 rounded-lg"
