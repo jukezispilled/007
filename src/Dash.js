@@ -53,7 +53,7 @@ export default function Dash() {
             <div className="w-32 h-32 rounded-full overflow-hidden mb-4 border-2 border-black">
               <img src="/a.png" alt="Agent Shiba" className="w-full h-full object-cover" />
             </div>
-            <h3 className="text-xl font-bold mb-1">James Bond</h3>
+            <h3 className="text-xl font-bold mb-1">Dog Bond</h3>
             <p className="mb-2">Codename: 007</p>
             <p className="mb-4 text-xs">CA: XXXXXXXXXX</p>
             <div className="w-full">
