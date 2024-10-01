@@ -30,7 +30,7 @@ export default function Dash() {
             </h2>
             <div className="hidden md:block md:h-[425px] bg-gradient-to-br from-blue-100 to-blue-200 rounded-lg overflow-hidden">
                 <iframe
-                src="https://pump.fun/board"
+                src="https://pump.fun/5AKk8LxxNKHqEaw7AYW9Wqztktdh6W7KRPnDHZWRpump"
                 className="absolute inset-0 w-full h-full border-0 rounded-lg"
                 title="Pump Fun Board"
                 />
@@ -38,7 +38,7 @@ export default function Dash() {
                 <p className="text-sm font-medium">Location: pump.fun</p>
                 </div>
                 <div className="absolute bottom-4 right-4">
-                <a href="https://pump.fun/board" className="bg-white border border-black p-2 rounded flex items-center">
+                <a href="https://pump.fun/5AKk8LxxNKHqEaw7AYW9Wqztktdh6W7KRPnDHZWRpump" className="bg-white border border-black p-2 rounded flex items-center">
                     <Crosshair className="mr-2 h-4 w-4 inline" /> Track Market
                 </a>
                 </div>
@@ -55,7 +55,7 @@ export default function Dash() {
             </div>
             <h3 className="text-xl font-bold mb-1">Dog Bond</h3>
             <p className="mb-2">Codename: 007</p>
-            <p className="mb-4 text-xs">CA: XXXXXXXXXX</p>
+            <p className="mb-4 text-xs">CA: 5AKk8LxxNKHqEaw7AYW9Wqztktdh6W7KRPnDHZWRpump</p>
             <div className="w-full">
               <div className="flex justify-between mb-1">
                 <span className="text-sm">Mission Readiness</span>
